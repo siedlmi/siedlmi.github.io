@@ -22,6 +22,7 @@ Stronę zatytułował “Oto jest pytanie”, a nagłówki dwóch kolumn “Żen
 |---
 | Żenić się | Nie żenić się |
 |:-:|:-:|
+
 | Dzieci (jak Bóg da) | Wolność podróżowania dokąd zechcę |
 |Wierna towarzyszka (i przyjaciółka w starości), która będzie się mną interesować | Debaty z inteligentnymi mężczyznami w klubie|
 |W każdym razie lepsza od psa | Brak przymusu odwiedzin krewnych i podobnych bzdur|
