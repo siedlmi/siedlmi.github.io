@@ -15,7 +15,7 @@ Algebrę moralną każdy z nas wykorzystuje codziennie podświadomie  podejmują
 *Jeżeli nie jesteś pewny, zaleciłbym Ci sporządzenie listy, w której spiszesz wszystkie argumenty za i przeciw w dwóch kolumnach obok siebie. Odczekaj dwa, trzy dni, a następnie wykonaj działanie, jak w niektórych zadaniach z algebry. Przyjrzyj się powodom i motywom w obu kolumnach i zastanów, czy są względnie równoważne jeden do jednego, jeden do dwóch, jeden do trzech i tak dalej.[...] W wielu ważnych sytuacjach, w których nie byłem pewny, stosowałem taką właśnie moralną algebrę. Metoda nie jest może precyzyjna pod względem matematycznym, ale uważam ją mimo wszystko za użyteczną. Nawiasem mówiąc, sądzę, że bez opanowania tej metody nigdy się nie ożenisz.*
 
 Nie jest to pierwszy dokument, w którym Benjamin Franklin opisuje swoją metodę podejmowania logicznych decyzji, ale bardzo ciekawie łączy się on tematem z inną dobrze znaną historyczną postacią. Karol Darwin, bo o nim mowa, też pewnego dnia stanął przed trudnym pytaniem: żenić się, czy może nie? 7 kwietnia 1838 roku młody Darwin podzielił kartkę swojego notatnika na dwie części:
-![alt text][logo]
+![alt text][notatka]
 
 Stronę zatytułował “Oto jest pytanie”, a nagłówki dwóch kolumn “Żenić się” i “Nie żenić się”. Jeśli macie problemy z rozczytaniem odręcznego pisma ojca teorii ewolucji, poniżej zamieszczam tłumaczenie:
 
