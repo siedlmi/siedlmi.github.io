@@ -22,16 +22,13 @@ Stronę zatytułował “Oto jest pytanie”, a nagłówki dwóch kolumn “Żen
 
 
 |---
-| Default aligned | Left aligned | Center aligned | Right aligned
-|-|:-|:-:|-:
-| First body part | Second cell | Third cell | fourth cell
-| Second line |foo | **strong** | baz
-| Third line |quux | baz | bar
+| Default aligned | Left aligned |
+|-|:-
+| First body part | Second cell |
+| Second line |foo |
+| Third line |quux |
 |---
-| Second body
-| 2 line
-|===
-| Footer row
+
 
 
 Porównajcie sami obie kolumny i spróbujcie na ich podstawie wywnioskować jaka decyzją byłaby tą logiczną, podjętą zgodnie z zasadami algebry Franklina? Krótko mówiąc, pół roku później Darwin ożenił się ze swoją kuzynką Emmą Wedgewood, a ich małżeństwo zaowocowało dziesięciorgiem dzieci. Także, według relacji im współczesnych był to nader szczęśliwy związek.
