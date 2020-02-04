@@ -19,8 +19,9 @@ Nie jest to pierwszy dokument, w którym Benjamin Franklin opisuje swoją metod�
 
 Stronę zatytułował “Oto jest pytanie”, a nagłówki dwóch kolumn “Żenić się” i “Nie żenić się”. Jeśli macie problemy z rozczytaniem odręcznego pisma ojca teorii ewolucji, poniżej zamieszczam tłumaczenie:
 
-
+|---
 | Żenić się | Nie żenić się |
+|:-:|:-:|
 | Dzieci (jak Bóg da) | Wolność podróżowania dokąd zechcę |
 
 Wierna towarzyszka (i przyjaciółka w starości), która będzie się mną interesować | Debaty z inteligentnymi mężczyznami w klubie
