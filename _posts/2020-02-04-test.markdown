@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "This is test Post"
-date:   2020-02-04 13:09:19 +0000
+title:  "Moralna Algebra"
+date:   2020-02-04 20:58:00 +0000
 categories: jekyll update
 ---
 
