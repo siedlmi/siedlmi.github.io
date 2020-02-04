@@ -22,10 +22,9 @@ Stronę zatytułował “Oto jest pytanie”, a nagłówki dwóch kolumn “Żen
 |---
 | Żenić się | Nie żenić się |
 |:-:|:-:|
-| Dzieci (jak Bóg da) |+ Wolność podróżowania dokąd zechcę |
-
+| Dzieci (jak Bóg da) | Wolność podróżowania dokąd zechcę |
 |Wierna towarzyszka (i przyjaciółka w starości), która będzie się mną interesować | Debaty z inteligentnymi mężczyznami w klubie|
-W każdym razie lepsza od psa | Brak przymusu odwiedzin krewnych i podobnych bzdur
+|W każdym razie lepsza od psa | Brak przymusu odwiedzin krewnych i podobnych bzdur|
 Miłość i rozrywka | Brak problemów ekonomicznych czy innych ze względu na dzieci  
 Dom i ktoś, kto się o niego troszczy | Być może kłótnie i stracony czas
 Muzyka i kobiece szepty|Nie da się czytać wieczorami
