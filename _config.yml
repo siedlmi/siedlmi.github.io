@@ -17,4 +17,5 @@ github_username:  siedlmi
 
 # Build settings
 
+markdown: kramdown
 theme: jekyll-theme-slate
