@@ -8,7 +8,7 @@ categories: jekyll update
 #wieszrozumiesz
 #gruparatowaniapoziomu
 
-![useful image](https://github.com/siedlmi/siedlmi.github.io/raw/master/_images/388px-BenFranklinDuplessis.jpg){:class="img-responsive"}
+![Benjamin Franklin][1]
 
 ## Benjamin Franklin  
 był nie tylko jednym z ojców założycieli Stanów Zjednoczonych. W swoim burzliwym życiu udało mu się zostać drukarzem, współ budowniczym pierwszej publicznej biblioteki w Stanach, ambasadorem we Francji, pierwszym Poczmistrzem Generalnym Stanów Zjednoczonych. Ufundował akademię, powołał do życia ochotniczą straż pożarną, wynalazł piorunochron, okulary dwuogniskowe oraz piec emitujący małe ilości dymu.  
@@ -26,7 +26,7 @@ Nie jest to pierwszy dokument, w którym Benjamin Franklin opisuje swoją metod�
 ### Karol Darwin, 
 bo o nim mowa, też pewnego dnia stanął przed trudnym pytaniem, z którym musi zmierzyć się każdy młody mężczyzna: żenić się, czy może nie? Tego wiosennego dnia, `7 kwietnia 1838 roku`, młody Darwin z ciężkim sercem podzielił kartkę swojego notatnika na dwie części. Stronę zatytułował *“Oto jest pytanie”*, a nagłówki dwóch kolumn *“Żenić się”* i *“Nie żenić się”*. Fotokopię możecie obejżeć na poniższym zdjęciu:  
 
-![useful image](https://github.com/siedlmi/siedlmi.github.io/raw/master/_images/moral_algebra.jpg){:class="img-responsive"}  
+![Karol Darwin][2]
 
 Jeśli macie problemy z rozczytaniem odręcznego pisma przyszłego ojca teorii ewolucji, poniżej zamieszczam tłumaczenie:
 
@@ -53,3 +53,5 @@ Krótko mówiąc, pół roku później Darwin był już po ślubie ze swoją kuz
   
 “Wiesz więcej, rozumiesz lepiej”
 
+[1]: (https://github.com/siedlmi/siedlmi.github.io/raw/master/_images/388px-BenFranklinDuplessis.jpg){:class="img-responsive"} "Benjamin Franklin"
+[2]: (https://github.com/siedlmi/siedlmi.github.io/raw/master/_images/moral_algebra.jpg){:class="img-responsive"}  
