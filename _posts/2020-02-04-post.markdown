@@ -8,7 +8,7 @@ categories: jekyll update
 #wieszrozumiesz
 #gruparatowaniapoziomu
 
-![useful image](https://github.com/siedlmi/siedlmi.github.io/raw/master/_images/582px-BenFranklinDuplessis.jpg){:class="img-responsive"
+![useful image](https://github.com/siedlmi/siedlmi.github.io/raw/master/_images/582px-BenFranklinDuplessis.jpg){:class="img-responsive"}
 
 Benjamin Franklin nie tylko został był założycielem Stanów Zjednoczonych. W swoim burzliwym życiu udało mu się zostać drukarzem, współ budowniczym pierwszej publicznej biblioteki w Stanach, ambasadorem we Francji, pierwszym Poczmistrzem Generalnym Stanów Zjednoczonych. Ufundował akademię, powołał do życia ochotniczą straż pożarną, wynalazł piorunochron, okulary dwuogniskowe oraz piec emitujący małe ilości dymu. Jednak dziś chciałbym wspomnieć o innym mniej znanym i oczywistym wynalazku tego wszechstronnego geniusza. Mam na myśli algebrę moralną - czyli coś, co filozof Daniel Dennett nazwałby pompą intuicji (lub dźwignią wyobraźni, jak wolałby polski wydawca). Mówiąc słowami Daniela - pompa intuicji jest tym dla pracy umysłowej, czym narzędzie jest dla pracy ręcznej.
 Algebrę moralną każdy z nas wykorzystuje codziennie podświadomie  podejmując różne decyzje, lub bardziej świadomie na lekcjach języka angielskiego, gdy lektor poprosi nas o sporządzenie tzw. listy pros and cons. B. Franklin tak opisywał tą metodę rozumowania w 1779 roku w odpowiedzi na list swojego siostrzeńca Jonathana Williamsa, gdy ten zapytał go o radę w sprawie ożenku:
