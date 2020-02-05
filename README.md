@@ -1,4 +1,4 @@
 # siedlmi.github.io
-Test github pages
+This is my private blog, focused on everything that may interest me.
 
 To be done later
