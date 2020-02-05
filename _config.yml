@@ -17,6 +17,10 @@ twitter_username: wieszrozumiesz
 github_username:  siedlmi
 
 # Build settings
+collections:
+  my_categories:
+    output: true
+    permalink: /blog/category/:name/
 
 markdown: kramdown
 theme: jekyll-theme-slate
