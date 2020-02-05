@@ -17,12 +17,17 @@ twitter_username: wieszrozumiesz
 github_username:  siedlmi
 
 # Build settings
-collections:
-  my_categories:
-    output: true
-    permalink: /blog/category/:name/
-
 markdown: kramdown
 theme: jekyll-theme-slate
 paginate: 5
 paginate_path: "/blog/page:num/"
+
+# Where things are
+collections:
+  my_categories:
+    output: true
+    permalink: /blog/category/:name/
+  my_tags:
+    output: true
+    permalink: /blog/tag/:name/
+
