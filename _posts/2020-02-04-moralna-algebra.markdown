@@ -12,17 +12,17 @@ categories: jekyll update
 
 ## Benjamin Franklin  
 był nie tylko jednym z ojców założycieli Stanów Zjednoczonych. W swoim burzliwym życiu udało mu się zostać drukarzem, współ budowniczym pierwszej publicznej biblioteki w Stanach, ambasadorem we Francji, pierwszym Poczmistrzem Generalnym Stanów Zjednoczonych. Ufundował akademię, powołał do życia ochotniczą straż pożarną, wynalazł piorunochron, okulary dwuogniskowe oraz piec emitujący małe ilości dymu.  
-Jednak dziś chciałbym wspomnieć o innym mniej znanym i oczywistym wynalazku tego wszechstronnego geniusza. Mam na myśli algebrę moralną - czyli coś, co filozof Daniel Dennett nazwałby pompą intuicji (lub dźwignią wyobraźni, jak wolałby polski wydawca). Mówiąc słowami Daniela - pompa intuicji jest tym dla pracy umysłowej, czym narzędzie jest dla pracy ręcznej.    
+Jednak dziś chciałbym wspomnieć o innym mniej znanym i oczywistym wynalazku tego wszechstronnego geniusza. Mam na myśli algebrę moralną, czyli coś, co filozof Daniel Dennett nazwałby **pompą intuicji** (lub dźwignią wyobraźni, jak wolałby polski wydawca). Mówiąc słowami Daniela - pompa intuicji jest tym dla pracy umysłowej, czym narzędzie jest dla pracy ręcznej.    
 
 * * *  
 
 ### Algebrę moralną 
-każdy z nas wykorzystuje codziennie podświadomie  podejmując różne decyzje, lub bardziej świadomie na lekcjach języka angielskiego, gdy lektor poprosi nas o sporządzenie tzw. listy pros and cons. B. Franklin tak opisywał tą metodę rozumowania w 1779 roku w odpowiedzi na list swojego siostrzeńca Jonathana Williamsa, gdy ten zapytał go o radę w sprawie ożenku:  
+każdy z nas wykorzystuje codziennie podświadomie  podejmując różne decyzje, lub bardziej świadomie na lekcjach języka angielskiego, gdy lektor poprosi nas o sporządzenie tzw. listy pros and cons. Benjamin Franklin tak opisywał tą metodę rozumowania w `1779 roku` w odpowiedzi na list swojego siostrzeńca Jonathana Williamsa, gdy ten zapytał go o radę w sprawie ożenku:  
 
 >Jeżeli nie jesteś pewny, zaleciłbym Ci sporządzenie listy, w której spiszesz wszystkie argumenty za i przeciw w dwóch kolumnach obok siebie. Odczekaj dwa, trzy dni, a następnie wykonaj działanie, jak w niektórych zadaniach z algebry. Przyjrzyj się powodom i motywom w obu kolumnach i zastanów, czy są względnie równoważne jeden do jednego, jeden do dwóch, jeden do trzech i tak dalej.[...] W wielu ważnych sytuacjach, w których nie byłem pewny, stosowałem taką właśnie moralną algebrę. Metoda nie jest może precyzyjna pod względem matematycznym, ale uważam ją mimo wszystko za użyteczną. Nawiasem mówiąc, sądzę, że bez opanowania tej metody nigdy się nie ożenisz. 
 
 Nie jest to pierwszy dokument, w którym Benjamin Franklin opisuje swoją metodę podejmowania logicznych decyzji, ale bardzo ciekawie łączy się on tematem z inną dobrze znaną postacią historyczną.  
-**  *
+* *  *
 ### Karol Darwin, 
 bo o nim mowa, też pewnego dnia stanął przed trudnym pytaniem, z którym musi zmierzyć się każdy młody mężczyzna: żenić się, czy może nie? Tego wiosennego dnia, `7 kwietnia 1838 roku`, młody Darwin z ciężkim sercem podzielił kartkę swojego notatnika na dwie części. Stronę zatytułował *“Oto jest pytanie”*, a nagłówki dwóch kolumn *“Żenić się”* i *“Nie żenić się”*. Fotokopię możecie obejżeć na poniższym zdjęciu:  
 
