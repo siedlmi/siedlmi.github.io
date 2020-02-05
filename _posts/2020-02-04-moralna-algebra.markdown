@@ -38,6 +38,7 @@ Stronę zatytułował “Oto jest pytanie”, a nagłówki dwóch kolumn “Żen
 | Żenić się, żenić się, żenić się. | Być może żonie nie spodoba się Londyn. Oznaczałoby to banicję i przemianę w leniwego, ociężałego idiotę |
 |---  
 
+  
 Porównajcie sami obie kolumny i spróbujcie na ich podstawie wywnioskować jaka decyzją byłaby tą logiczną, podjętą zgodnie z zasadami algebry Franklina? Krótko mówiąc, pół roku później Darwin ożenił się ze swoją kuzynką Emmą Wedgewood, a ich małżeństwo zaowocowało dziesięciorgiem dzieci. Także, według relacji im współczesnych był to nader szczęśliwy związek.  
   
   
