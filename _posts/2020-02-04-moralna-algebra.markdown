@@ -10,14 +10,16 @@ categories: jekyll update
 
 ![useful image](https://github.com/siedlmi/siedlmi.github.io/raw/master/_images/388px-BenFranklinDuplessis.jpg){:class="img-responsive"}
 
-Benjamin Franklin nie tylko został był założycielem Stanów Zjednoczonych. W swoim burzliwym życiu udało mu się zostać drukarzem, współ budowniczym pierwszej publicznej biblioteki w Stanach, ambasadorem we Francji, pierwszym Poczmistrzem Generalnym Stanów Zjednoczonych. Ufundował akademię, powołał do życia ochotniczą straż pożarną, wynalazł piorunochron, okulary dwuogniskowe oraz piec emitujący małe ilości dymu. Jednak dziś chciałbym wspomnieć o innym mniej znanym i oczywistym wynalazku tego wszechstronnego geniusza. Mam na myśli algebrę moralną - czyli coś, co filozof Daniel Dennett nazwałby pompą intuicji (lub dźwignią wyobraźni, jak wolałby polski wydawca). Mówiąc słowami Daniela - pompa intuicji jest tym dla pracy umysłowej, czym narzędzie jest dla pracy ręcznej.
+######Benjamin Franklin nie tylko był jednym z założycieli Stanów Zjednoczonych. 
+W swoim burzliwym życiu udało mu się zostać drukarzem, współ budowniczym pierwszej publicznej biblioteki w Stanach, ambasadorem we Francji, pierwszym Poczmistrzem Generalnym Stanów Zjednoczonych. Ufundował akademię, powołał do życia ochotniczą straż pożarną, wynalazł piorunochron, okulary dwuogniskowe oraz piec emitujący małe ilości dymu. Jednak dziś chciałbym wspomnieć o innym mniej znanym i oczywistym wynalazku tego wszechstronnego geniusza. Mam na myśli algebrę moralną - czyli coś, co filozof Daniel Dennett nazwałby pompą intuicji (lub dźwignią wyobraźni, jak wolałby polski wydawca). Mówiąc słowami Daniela - pompa intuicji jest tym dla pracy umysłowej, czym narzędzie jest dla pracy ręcznej.</br>
 Algebrę moralną każdy z nas wykorzystuje codziennie podświadomie  podejmując różne decyzje, lub bardziej świadomie na lekcjach języka angielskiego, gdy lektor poprosi nas o sporządzenie tzw. listy pros and cons. B. Franklin tak opisywał tą metodę rozumowania w 1779 roku w odpowiedzi na list swojego siostrzeńca Jonathana Williamsa, gdy ten zapytał go o radę w sprawie ożenku:
-
+</br>
 *Jeżeli nie jesteś pewny, zaleciłbym Ci sporządzenie listy, w której spiszesz wszystkie argumenty za i przeciw w dwóch kolumnach obok siebie. Odczekaj dwa, trzy dni, a następnie wykonaj działanie, jak w niektórych zadaniach z algebry. Przyjrzyj się powodom i motywom w obu kolumnach i zastanów, czy są względnie równoważne jeden do jednego, jeden do dwóch, jeden do trzech i tak dalej.[...] W wielu ważnych sytuacjach, w których nie byłem pewny, stosowałem taką właśnie moralną algebrę. Metoda nie jest może precyzyjna pod względem matematycznym, ale uważam ją mimo wszystko za użyteczną. Nawiasem mówiąc, sądzę, że bez opanowania tej metody nigdy się nie ożenisz.*
-
+</br>
 Nie jest to pierwszy dokument, w którym Benjamin Franklin opisuje swoją metodę podejmowania logicznych decyzji, ale bardzo ciekawie łączy się on tematem z inną dobrze znaną historyczną postacią. Karol Darwin, bo o nim mowa, też pewnego dnia stanął przed trudnym pytaniem: żenić się, czy może nie? 7 kwietnia 1838 roku młody Darwin podzielił kartkę swojego notatnika na dwie części:
+</br>
 ![useful image](https://github.com/siedlmi/siedlmi.github.io/raw/master/_images/moral_algebra.jpg){:class="img-responsive"}
-
+</br>
 Stronę zatytułował “Oto jest pytanie”, a nagłówki dwóch kolumn “Żenić się” i “Nie żenić się”. Jeśli macie problemy z rozczytaniem odręcznego pisma ojca teorii ewolucji, poniżej zamieszczam tłumaczenie:
 
 |---
@@ -35,7 +37,7 @@ Stronę zatytułował “Oto jest pytanie”, a nagłówki dwóch kolumn “Żen
 | ... |Przy wielu dzieciach - konieczność zarabiania pieniędzy - za dużo pracy nie służy zdrowiu
 | Żenić się, żenić się, żenić się. | Być może żonie nie spodoba się Londyn. Oznaczałoby to banicję i przemianę w leniwego, ociężałego idiotę |
 |---
-
+</br>
 Porównajcie sami obie kolumny i spróbujcie na ich podstawie wywnioskować jaka decyzją byłaby tą logiczną, podjętą zgodnie z zasadami algebry Franklina? Krótko mówiąc, pół roku później Darwin ożenił się ze swoją kuzynką Emmą Wedgewood, a ich małżeństwo zaowocowało dziesięciorgiem dzieci. Także, według relacji im współczesnych był to nader szczęśliwy związek.
 
 
