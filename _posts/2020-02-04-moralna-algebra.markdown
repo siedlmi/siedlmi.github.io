@@ -2,7 +2,6 @@
 layout: post
 title:  "Moralna Algebra"
 date:   2020-02-04 20:58:00 +0000
-categories: jekyll update
 category: historia
 tags: [benjamin-franklin, pompy-intuicji]
 ---
