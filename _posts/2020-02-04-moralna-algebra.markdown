@@ -21,11 +21,14 @@ każdy z nas wykorzystuje codziennie podświadomie  podejmując różne decyzje,
 
 >Jeżeli nie jesteś pewny, zaleciłbym Ci sporządzenie listy, w której spiszesz wszystkie argumenty za i przeciw w dwóch kolumnach obok siebie. Odczekaj dwa, trzy dni, a następnie wykonaj działanie, jak w niektórych zadaniach z algebry. Przyjrzyj się powodom i motywom w obu kolumnach i zastanów, czy są względnie równoważne jeden do jednego, jeden do dwóch, jeden do trzech i tak dalej.[...] W wielu ważnych sytuacjach, w których nie byłem pewny, stosowałem taką właśnie moralną algebrę. Metoda nie jest może precyzyjna pod względem matematycznym, ale uważam ją mimo wszystko za użyteczną. Nawiasem mówiąc, sądzę, że bez opanowania tej metody nigdy się nie ożenisz. 
 
-Nie jest to pierwszy dokument, w którym Benjamin Franklin opisuje swoją metodę podejmowania logicznych decyzji, ale bardzo ciekawie łączy się on tematem z inną dobrze znaną historyczną postacią. Karol Darwin, bo o nim mowa, też pewnego dnia stanął przed trudnym pytaniem: żenić się, czy może nie? 7 kwietnia 1838 roku młody Darwin podzielił kartkę swojego notatnika na dwie części:  
+Nie jest to pierwszy dokument, w którym Benjamin Franklin opisuje swoją metodę podejmowania logicznych decyzji, ale bardzo ciekawie łączy się on tematem z inną dobrze znaną postacią historyczną.  
+**  *
+### Karol Darwin, 
+bo o nim mowa, też pewnego dnia stanął przed trudnym pytaniem, z którym musi zmierzyć się każdy młody mężczyzna: żenić się, czy może nie? Tego wiosennego dnia, 7 kwietnia 1838 roku, młody Darwin z ciężkim sercem podzielił kartkę swojego notatnika na dwie części. Stronę zatytułował *“Oto jest pytanie”*, a nagłówki dwóch kolumn *“Żenić się”* i *“Nie żenić się”*. Fotokopię możecie obejżeć na poniższym zdjęciu:  
 
 ![useful image](https://github.com/siedlmi/siedlmi.github.io/raw/master/_images/moral_algebra.jpg){:class="img-responsive"}  
 
-Stronę zatytułował *“Oto jest pytanie”*, a nagłówki dwóch kolumn *“Żenić się”* i *“Nie żenić się”*. Jeśli macie problemy z rozczytaniem odręcznego pisma ojca teorii ewolucji, poniżej zamieszczam tłumaczenie:
+Jeśli macie problemy z rozczytaniem odręcznego pisma przyszłego ojca teorii ewolucji, poniżej zamieszczam tłumaczenie:
 
 |---
 | Żenić się | Nie żenić się |
@@ -44,7 +47,8 @@ Stronę zatytułował *“Oto jest pytanie”*, a nagłówki dwóch kolumn *“�
 |---  
 
   
-Porównajcie sami obie kolumny i spróbujcie na ich podstawie wywnioskować jaka decyzją byłaby tą logiczną, podjętą zgodnie z zasadami algebry Franklina? Krótko mówiąc, pół roku później Darwin ożenił się ze swoją kuzynką Emmą Wedgewood, a ich małżeństwo zaowocowało dziesięciorgiem dzieci. Także według relacji im współczesnych był to nader szczęśliwy związek.  
+Porównajcie sami obie kolumny i spróbujcie na ich podstawie wywnioskować jaka decyzją byłaby tą logiczną, podjętą zgodnie z zasadami algebry Franklina? Jak myślicie, jaką decyzję podjął młody Karol?  
+Krótko mówiąc, pół roku później Darwin był już po ślubie ze swoją kuzynką **Emmą Wedgewood**, a ich małżeństwo zaowocowało dziesięciorgiem (sic!) dzieci. Według relacji im współczesnych był to nader szczęśliwy związek.  
   
   
 “Wiesz więcej, rozumiesz lepiej”
