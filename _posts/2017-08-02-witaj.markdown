@@ -3,6 +3,8 @@ layout: post
 title:  "Przygodę czas zacząć!"
 date:   2017-08-02 22:09:19 +0000
 categories: jekyll update
+category: update
+tags: [hello-world]
 ---
 
 [Ready, set, GO!](#ready-set-go)
