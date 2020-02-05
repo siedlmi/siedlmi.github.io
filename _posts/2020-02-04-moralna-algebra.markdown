@@ -16,16 +16,16 @@ Jednak dziś chciałbym wspomnieć o innym mniej znanym i oczywistym wynalazku t
 
 * * *  
 
-##### Algebrę moralną 
+### Algebrę moralną 
 każdy z nas wykorzystuje codziennie podświadomie  podejmując różne decyzje, lub bardziej świadomie na lekcjach języka angielskiego, gdy lektor poprosi nas o sporządzenie tzw. listy pros and cons. B. Franklin tak opisywał tą metodę rozumowania w 1779 roku w odpowiedzi na list swojego siostrzeńca Jonathana Williamsa, gdy ten zapytał go o radę w sprawie ożenku:  
 
-*Jeżeli nie jesteś pewny, zaleciłbym Ci sporządzenie listy, w której spiszesz wszystkie argumenty za i przeciw w dwóch kolumnach obok siebie. Odczekaj dwa, trzy dni, a następnie wykonaj działanie, jak w niektórych zadaniach z algebry. Przyjrzyj się powodom i motywom w obu kolumnach i zastanów, czy są względnie równoważne jeden do jednego, jeden do dwóch, jeden do trzech i tak dalej.[...] W wielu ważnych sytuacjach, w których nie byłem pewny, stosowałem taką właśnie moralną algebrę. Metoda nie jest może precyzyjna pod względem matematycznym, ale uważam ją mimo wszystko za użyteczną. Nawiasem mówiąc, sądzę, że bez opanowania tej metody nigdy się nie ożenisz.*  
+>Jeżeli nie jesteś pewny, zaleciłbym Ci sporządzenie listy, w której spiszesz wszystkie argumenty za i przeciw w dwóch kolumnach obok siebie. Odczekaj dwa, trzy dni, a następnie wykonaj działanie, jak w niektórych zadaniach z algebry. Przyjrzyj się powodom i motywom w obu kolumnach i zastanów, czy są względnie równoważne jeden do jednego, jeden do dwóch, jeden do trzech i tak dalej.[...] W wielu ważnych sytuacjach, w których nie byłem pewny, stosowałem taką właśnie moralną algebrę. Metoda nie jest może precyzyjna pod względem matematycznym, ale uważam ją mimo wszystko za użyteczną. Nawiasem mówiąc, sądzę, że bez opanowania tej metody nigdy się nie ożenisz. 
 
 Nie jest to pierwszy dokument, w którym Benjamin Franklin opisuje swoją metodę podejmowania logicznych decyzji, ale bardzo ciekawie łączy się on tematem z inną dobrze znaną historyczną postacią. Karol Darwin, bo o nim mowa, też pewnego dnia stanął przed trudnym pytaniem: żenić się, czy może nie? 7 kwietnia 1838 roku młody Darwin podzielił kartkę swojego notatnika na dwie części:  
 
 ![useful image](https://github.com/siedlmi/siedlmi.github.io/raw/master/_images/moral_algebra.jpg){:class="img-responsive"}  
 
-Stronę zatytułował “Oto jest pytanie”, a nagłówki dwóch kolumn “Żenić się” i “Nie żenić się”. Jeśli macie problemy z rozczytaniem odręcznego pisma ojca teorii ewolucji, poniżej zamieszczam tłumaczenie:
+Stronę zatytułował *“Oto jest pytanie”*, a nagłówki dwóch kolumn *“Żenić się”* i *“Nie żenić się”*. Jeśli macie problemy z rozczytaniem odręcznego pisma ojca teorii ewolucji, poniżej zamieszczam tłumaczenie:
 
 |---
 | Żenić się | Nie żenić się |
@@ -44,7 +44,7 @@ Stronę zatytułował “Oto jest pytanie”, a nagłówki dwóch kolumn “Żen
 |---  
 
   
-Porównajcie sami obie kolumny i spróbujcie na ich podstawie wywnioskować jaka decyzją byłaby tą logiczną, podjętą zgodnie z zasadami algebry Franklina? Krótko mówiąc, pół roku później Darwin ożenił się ze swoją kuzynką Emmą Wedgewood, a ich małżeństwo zaowocowało dziesięciorgiem dzieci. Także, według relacji im współczesnych był to nader szczęśliwy związek.  
+Porównajcie sami obie kolumny i spróbujcie na ich podstawie wywnioskować jaka decyzją byłaby tą logiczną, podjętą zgodnie z zasadami algebry Franklina? Krótko mówiąc, pół roku później Darwin ożenił się ze swoją kuzynką Emmą Wedgewood, a ich małżeństwo zaowocowało dziesięciorgiem dzieci. Także według relacji im współczesnych był to nader szczęśliwy związek.  
   
   
 “Wiesz więcej, rozumiesz lepiej”
