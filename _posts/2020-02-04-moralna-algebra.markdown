@@ -24,7 +24,7 @@ każdy z nas wykorzystuje codziennie podświadomie  podejmując różne decyzje,
 Nie jest to pierwszy dokument, w którym Benjamin Franklin opisuje swoją metodę podejmowania logicznych decyzji, ale bardzo ciekawie łączy się on tematem z inną dobrze znaną postacią historyczną.  
 **  *
 ### Karol Darwin, 
-bo o nim mowa, też pewnego dnia stanął przed trudnym pytaniem, z którym musi zmierzyć się każdy młody mężczyzna: żenić się, czy może nie? Tego wiosennego dnia, 7 kwietnia 1838 roku, młody Darwin z ciężkim sercem podzielił kartkę swojego notatnika na dwie części. Stronę zatytułował *“Oto jest pytanie”*, a nagłówki dwóch kolumn *“Żenić się”* i *“Nie żenić się”*. Fotokopię możecie obejżeć na poniższym zdjęciu:  
+bo o nim mowa, też pewnego dnia stanął przed trudnym pytaniem, z którym musi zmierzyć się każdy młody mężczyzna: żenić się, czy może nie? Tego wiosennego dnia, '7 kwietnia 1838 roku', młody Darwin z ciężkim sercem podzielił kartkę swojego notatnika na dwie części. Stronę zatytułował *“Oto jest pytanie”*, a nagłówki dwóch kolumn *“Żenić się”* i *“Nie żenić się”*. Fotokopię możecie obejżeć na poniższym zdjęciu:  
 
 ![useful image](https://github.com/siedlmi/siedlmi.github.io/raw/master/_images/moral_algebra.jpg){:class="img-responsive"}  
 
