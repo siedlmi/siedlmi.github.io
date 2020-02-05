@@ -11,7 +11,7 @@ name: Wiesz @ Rozumiesz - blog o tym, że uczyć możesz się przez całe życie
 email: mi.siedlecki@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Nowa wiedza każdego dnia!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://siedlmi.github.io" # the base hostname & protocol for your site
 twitter_username: wieszrozumiesz
 github_username:  siedlmi
