@@ -1,0 +1,4 @@
+---
+slug: antyk
+name: antyk
+---
