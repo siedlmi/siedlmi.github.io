@@ -9,6 +9,7 @@
 title: Wiesz @ Rozumiesz
 name: Wiesz @ Rozumiesz - blog o tym, że uczyć możesz się przez całe życie.
 email: mi.siedlecki@gmail.com
+copyright: 2017&mdash;2020
 description: > # this means to ignore newlines until "baseurl:"
   Nowa wiedza każdego dnia!
 baseurl: "" # the subpath of your site, e.g. /blog
