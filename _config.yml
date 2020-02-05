@@ -32,7 +32,7 @@ collections:
     output: true
     permalink: /tag/:name/
 
-efaults:
+defaults:
   -
     scope:
       path: ""
