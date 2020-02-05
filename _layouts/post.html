@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+{% assign post = page %}
 {% assign category = site.my_categories | where: "slug", post.category %}
 {% assign category = category[0] %}
 {% if category %}
@@ -29,7 +29,7 @@ layout: default
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
 </header>
 	
-<p>Posted{% if category_content %} in </p>{{ category_content }}<p>{% endif %}{{ tags_content }}</p>
+Posted{% if category_content %} in {{ category_content }}{% endif %}{{ tags_content }}</p>
 	
   <div class="post-content" itemprop="articleBody">
     {{ content }}
