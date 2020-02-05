@@ -1,0 +1,4 @@
+---
+slug: Platon
+name: Platon
+---
