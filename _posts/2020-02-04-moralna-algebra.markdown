@@ -53,5 +53,5 @@ Krótko mówiąc, pół roku później Darwin był już po ślubie ze swoją kuz
   
 “Wiesz więcej, rozumiesz lepiej”
 
-[1]: (https://github.com/siedlmi/siedlmi.github.io/raw/master/_images/388px-BenFranklinDuplessis.jpg){:class="img-responsive"} "Benjamin Franklin"
-[2]: (https://github.com/siedlmi/siedlmi.github.io/raw/master/_images/moral_algebra.jpg){:class="img-responsive"}  
+[1]: https://github.com/siedlmi/siedlmi.github.io/raw/master/_images/388px-BenFranklinDuplessis.jpg  "Benjamin Franklin"
+[2]: https://github.com/siedlmi/siedlmi.github.io/raw/master/_images/moral_algebra.jpg 
