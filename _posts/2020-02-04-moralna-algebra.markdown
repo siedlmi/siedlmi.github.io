@@ -13,9 +13,7 @@ tags: [benjamin-franklin, pompy-intuicji]
 
 ## Benjamin Franklin  
 był nie tylko jednym z ojców założycieli Stanów Zjednoczonych. W swoim burzliwym życiu udało mu się zostać drukarzem, współ budowniczym pierwszej publicznej biblioteki w Stanach, ambasadorem we Francji, pierwszym Poczmistrzem Generalnym Stanów Zjednoczonych. Ufundował akademię, powołał do życia ochotniczą straż pożarną, wynalazł piorunochron, okulary dwuogniskowe oraz piec emitujący małe ilości dymu.  
-Jednak dziś chciałbym wspomnieć o innym mniej znanym i oczywistym wynalazku tego wszechstronnego geniusza. Mam na myśli algebrę moralną, czyli coś, co filozof 
-<div class="tooltip">Daniel Dennett<span class="tooltiptext">Daniel Clement Dennett III (born March 28, 1942) is an American philosopher, writer, and cognitive scientist whose research centers on the philosophy of mind, philosophy of science, and philosophy of biology, particularly as those fields relate to evolutionary biology and cognitive science.</span></div> 
-nazwałby **pompą intuicji** (lub dźwignią wyobraźni, jak wolałby polski wydawca). Mówiąc słowami Daniela - pompa intuicji jest tym dla pracy umysłowej, czym narzędzie jest dla pracy ręcznej.    
+Jednak dziś chciałbym wspomnieć o innym mniej znanym i oczywistym wynalazku tego wszechstronnego geniusza. Mam na myśli algebrę moralną, czyli coś, co filozof <div class="tooltip">Daniel Dennett<span class="tooltiptext">Daniel Clement Dennett III (born March 28, 1942) is an American philosopher, writer, and cognitive scientist.</span></div> nazwałby **pompą intuicji** (lub dźwignią wyobraźni, jak wolałby polski wydawca). Mówiąc słowami Daniela - pompa intuicji jest tym dla pracy umysłowej, czym narzędzie jest dla pracy ręcznej.    
 
 * * *  
 
