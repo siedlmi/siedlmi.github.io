@@ -46,7 +46,7 @@ Jeśli macie problemy z rozczytaniem odręcznego pisma przyszłego ojca teorii e
 | ... |Przy wielu dzieciach - konieczność zarabiania pieniędzy - za dużo pracy nie służy zdrowiu
 | Żenić się, żenić się, żenić się. | Być może żonie nie spodoba się Londyn. Oznaczałoby to banicję i przemianę w leniwego, ociężałego idiotę |
 |---  
-
+  
   
 Porównajcie sami obie kolumny i spróbujcie na ich podstawie wywnioskować jaka decyzją byłaby tą logiczną, podjętą zgodnie z zasadami algebry Franklina? Jak myślicie, jaką decyzję podjął młody Karol?  
 Krótko mówiąc, pół roku później Darwin był już po ślubie ze swoją kuzynką **Emmą Wedgewood**, a ich małżeństwo zaowocowało dziesięciorgiem (sic!) dzieci. Według relacji im współczesnych był to nader szczęśliwy związek.  
