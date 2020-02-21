@@ -1,5 +1,3 @@
-2020-02-10-Ceteris-paribus
-
 ---
 layout: post
 title:  "Inne takie same"
